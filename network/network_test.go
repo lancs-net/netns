@@ -5,7 +5,7 @@ import "testing"
 const (
 	defaultBridgeName = "netns0"
 	defaultBridgeIP   = "172.19.0.1/16"
-	defaultStateDir   = "/run/github.com/genuinetools/netns"
+	defaultStateDir   = "/run/github.com/lancs-net/netns"
 )
 
 func TestNewNetworkBridgeNameEmpty(t *testing.T) {

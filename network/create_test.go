@@ -7,7 +7,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/genuinetools/netns/bridge"
+	"github.com/lancs-net/netns/bridge"
 	"github.com/opencontainers/runtime-spec/specs-go"
 )
 

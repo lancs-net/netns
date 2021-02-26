@@ -8,10 +8,10 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/genuinetools/netns/bridge"
-	"github.com/genuinetools/netns/network"
-	"github.com/genuinetools/netns/version"
-	"github.com/genuinetools/pkg/cli"
+	"github.com/lancs-net/netns/bridge"
+	"github.com/lancs-net/netns/network"
+	"github.com/lancs-net/netns/version"
+	"github.com/lancs-net/pkg/cli"
 	"github.com/opencontainers/runtime-spec/specs-go"
 	"github.com/sirupsen/logrus"
 )
@@ -19,7 +19,7 @@ import (
 const (
 	defaultBridgeName = "netns0"
 	defaultBridgeIP   = "172.19.0.1/16"
-	defaultStateDir   = "/run/github.com/genuinetools/netns"
+	defaultStateDir   = "/run/github.com/lancs-net/netns"
 )
 
 var (

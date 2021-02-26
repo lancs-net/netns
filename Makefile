@@ -1,6 +1,6 @@
 # Setup name variables for the package/tool
 NAME := netns
-PKG := github.com/genuinetools/$(NAME)
+PKG := github.com/lancs-net/$(NAME)
 
 CGO_ENABLED := 0
 

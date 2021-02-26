@@ -1,9 +1,9 @@
 # netns
 
-[![make-all](https://github.com/genuinetools/netns/workflows/make%20all/badge.svg)](https://github.com/genuinetools/netns/actions?query=workflow%3A%22make+all%22)
-[![make-image](https://github.com/genuinetools/netns/workflows/make%20image/badge.svg)](https://github.com/genuinetools/netns/actions?query=workflow%3A%22make+image%22)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-5272B4.svg?style=for-the-badge)](https://godoc.org/github.com/genuinetools/netns)
-[![Github All Releases](https://img.shields.io/github/downloads/genuinetools/netns/total.svg?style=for-the-badge)](https://github.com/genuinetools/netns/releases)
+[![make-all](https://github.com/lancs-net/netns/workflows/make%20all/badge.svg)](https://github.com/lancs-net/netns/actions?query=workflow%3A%22make+all%22)
+[![make-image](https://github.com/lancs-net/netns/workflows/make%20image/badge.svg)](https://github.com/lancs-net/netns/actions?query=workflow%3A%22make+image%22)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-5272B4.svg?style=for-the-badge)](https://godoc.org/github.com/lancs-net/netns)
+[![Github All Releases](https://img.shields.io/github/downloads/lancs-net/netns/total.svg?style=for-the-badge)](https://github.com/lancs-net/netns/releases)
 
 Runc hook for setting up default bridge networking.
 
@@ -22,12 +22,12 @@ Runc hook for setting up default bridge networking.
 
 #### Binaries
 
-For installation instructions from binaries please visit the [Releases Page](https://github.com/genuinetools/netns/releases).
+For installation instructions from binaries please visit the [Releases Page](https://github.com/lancs-net/netns/releases).
 
 #### Via Go
 
 ```console
-$ go get github.com/genuinetools/netns
+$ go get github.com/lancs-net/netns
 ```
 
 ## Usage
@@ -42,7 +42,7 @@ Flags:
 
   --ipfile     file in which to save the containers ip address (default: .ip)
   --mtu        mtu for bridge (default: 1500)
-  --state-dir  directory for saving state, used for ip allocation (default: /run/github.com/genuinetools/netns)
+  --state-dir  directory for saving state, used for ip allocation (default: /run/github.com/lancs-net/netns)
   --bridge     name for bridge (default: netns0)
   -d           enable debug logging (default: false)
   --iface      name of interface in the namespace (default: eth0)

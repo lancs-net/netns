@@ -5,8 +5,8 @@ import (
 	"net"
 	"runtime"
 
-	"github.com/genuinetools/netns/bridge"
-	"github.com/genuinetools/netns/netutils"
+	"github.com/lancs-net/netns/bridge"
+	"github.com/lancs-net/netns/netutils"
 	"github.com/opencontainers/runtime-spec/specs-go"
 	"github.com/sirupsen/logrus"
 	"github.com/vishvananda/netlink"
