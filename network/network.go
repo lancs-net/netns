@@ -115,7 +115,10 @@ func (c *Client) openDB(readonly bool) (err error) {
 }
 
 func (c *Client) closeDB() error {
-	err := c.db.Close()
-	c.db = nil
-	return err
+	if c.db != nil {
+		err := c.db.Close()
+		c.db = nil
+		return err
+	}
+	return nil
 }
