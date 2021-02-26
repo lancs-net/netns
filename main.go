@@ -11,7 +11,7 @@ import (
 	"github.com/lancs-net/netns/bridge"
 	"github.com/lancs-net/netns/network"
 	"github.com/lancs-net/netns/version"
-	"github.com/lancs-net/pkg/cli"
+	"github.com/genuinetools/pkg/cli"
 	"github.com/opencontainers/runtime-spec/specs-go"
 	"github.com/sirupsen/logrus"
 )

@@ -8,8 +8,8 @@ github.com/erikh/ping v0.0.0-20141209185752-d731d249e12a h1:xYb+yyQiRJ/j9MeLxAxY
 github.com/erikh/ping v0.0.0-20141209185752-d731d249e12a/go.mod h1:m0Cg23THf2kNTu+CtJHoq2IjqNQke24ZV8GQlGDfQf4=
 github.com/fsnotify/fsnotify v1.4.7 h1:IXs+QLmnXW2CcXuY+8Mzv/fWEsPGWxqefPtCP5CnV9I=
 github.com/fsnotify/fsnotify v1.4.7/go.mod h1:jwhsz4b93w/PPRr/qN1Yymfu8t87LnFCMoQvtojpjFo=
-github.com/lancs-net/pkg v0.0.0-20180910213200-1c141f661797 h1:SGpZXDd/CFeDIY4Rq5cFO8K/uqDblHUxjlzOmjFpvRg=
-github.com/lancs-net/pkg v0.0.0-20180910213200-1c141f661797/go.mod h1:XTcrCYlXPxnxL2UpnwuRn7tcaTn9HAhxFoFJucootk8=
+github.com/genuinetools/pkg v0.0.0-20180910213200-1c141f661797 h1:SGpZXDd/CFeDIY4Rq5cFO8K/uqDblHUxjlzOmjFpvRg=
+github.com/genuinetools/pkg v0.0.0-20180910213200-1c141f661797/go.mod h1:XTcrCYlXPxnxL2UpnwuRn7tcaTn9HAhxFoFJucootk8=
 github.com/godbus/dbus v4.1.0+incompatible h1:WqqLRTsQic3apZUK9qC5sGNfXthmPXzUZ7nQPrNITa4=
 github.com/godbus/dbus v4.1.0+incompatible/go.mod h1:/YcGZj5zSblfDWMMoOzV4fas9FZnQYTkDnsGvmh2Grw=
 github.com/golang/protobuf v1.2.0 h1:P3YflyNX/ehuJFLhxviNdFxQPkGK5cDcApsge1SqnvM=
