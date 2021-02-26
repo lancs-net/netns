@@ -1,24 +1,49 @@
+# github.com/boltdb/bolt v1.3.1
+## explicit
+# github.com/davecgh/go-spew v1.1.1
+## explicit
 # github.com/docker/libnetwork v0.0.0-20180914141841-20461b853933
+## explicit
 github.com/docker/libnetwork/iptables
 # github.com/erikh/ping v0.0.0-20141209185752-d731d249e12a
+## explicit
 github.com/erikh/ping
 # github.com/genuinetools/pkg v0.0.0-20180910213200-1c141f661797
+## explicit
 github.com/genuinetools/pkg/cli
 # github.com/godbus/dbus v4.1.0+incompatible
+## explicit
 github.com/godbus/dbus
+# github.com/onsi/gomega v1.4.2
+## explicit
 # github.com/opencontainers/runtime-spec v1.0.1
+## explicit
 github.com/opencontainers/runtime-spec/specs-go
+# github.com/pmezard/go-difflib v1.0.0
+## explicit
 # github.com/sirupsen/logrus v1.0.6
+## explicit
 github.com/sirupsen/logrus
+# github.com/stretchr/testify v1.2.2
+## explicit
 # github.com/vishvananda/netlink v1.0.0
+## explicit
 github.com/vishvananda/netlink
 github.com/vishvananda/netlink/nl
 # github.com/vishvananda/netns v0.0.0-20180720170159-13995c7128cc
+## explicit
 github.com/vishvananda/netns
 # go.etcd.io/bbolt v1.3.0
+## explicit
 go.etcd.io/bbolt
 # golang.org/x/crypto v0.0.0-20180910181607-0e37d006457b
+## explicit
 golang.org/x/crypto/ssh/terminal
 # golang.org/x/sys v0.0.0-20180925112736-b09afc3d579e
+## explicit
 golang.org/x/sys/unix
 golang.org/x/sys/windows
+# gopkg.in/airbrake/gobrake.v2 v2.0.9
+## explicit
+# gopkg.in/gemnasium/logrus-airbrake-hook.v2 v2.1.2
+## explicit
